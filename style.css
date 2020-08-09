@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 1200px;
+    border: 4px ridge rgb(63, 102, 102);
+    padding: 10px;
+    background-color: rgb(235, 212, 248);
+    margin: 0px auto;
+    box-shadow: 3px 3px 5px slategrey;
+}
+#image1{
+    background-image: url(images/me.jpg);
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+#image2{
+    background-image: url(images/pic1.png);
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+#image3{
+    background-image: url(images/pic2.png);
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+#image4{
+    background-image: url(images/pic3.png);
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
