@@ -81,6 +81,10 @@ h3{
     font-size:27px ;
     text-decoration: underline;
 }
+span{
+   font-family: 'Lobster';
+   
+}
 .quote{ 
    margin: 90px;
     color: rgb(247, 242, 242);
